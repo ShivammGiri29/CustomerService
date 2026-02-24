@@ -1,0 +1,57 @@
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.deps.json
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.runtimeconfig.json
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.dll
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.pdb
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Domain.dll
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Domain.pdb
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfo.cs
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.9709E307.Up2Date
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.dll
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\refint\Customer.Infrastucture.dll
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.pdb
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.genruntimeconfig.cache
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\ref\Customer.Infrastucture.dll
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Application.dll
+C:\Users\Shivam\source\repos\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Application.pdb
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.deps.json
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.runtimeconfig.json
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.dll
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.pdb
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Application.dll
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Domain.dll
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Application.pdb
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Domain.pdb
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.csproj.AssemblyReference.cache
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfoInputs.cache
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfo.cs
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.csproj.CoreCompileInputs.cache
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.9709E307.Up2Date
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.dll
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\refint\Customer.Infrastucture.dll
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.pdb
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.genruntimeconfig.cache
+C:\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\ref\Customer.Infrastucture.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.deps.json
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.runtimeconfig.json
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Infrastucture.pdb
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Application.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Domain.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Application.pdb
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\bin\Debug\net8.0\Customer.Domain.pdb
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.csproj.AssemblyReference.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfoInputs.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.AssemblyInfo.cs
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.csproj.CoreCompileInputs.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.9709E307.Up2Date
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\refint\Customer.Infrastucture.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.pdb
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\Customer.Infrastucture.genruntimeconfig.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer.Infrastucture\obj\Debug\net8.0\ref\Customer.Infrastucture.dll

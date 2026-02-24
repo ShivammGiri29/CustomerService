@@ -1,0 +1,105 @@
+2026-02-23 00:00:21 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 160.4160 ms
+2026-02-23 00:00:31 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 10.6996 ms
+2026-02-23 00:00:31 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 13.1891 ms
+2026-02-23 00:03:45 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 29.3082 ms
+2026-02-23 00:06:00 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 167.4521 ms
+2026-02-23 00:06:26 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 43.2422 ms
+2026-02-23 00:13:18 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 189.2141 ms
+2026-02-23 00:13:18 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 10.3067 ms
+2026-02-23 00:15:38 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 26.3078 ms
+2026-02-23 00:15:38 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 19.5000 ms
+2026-02-23 00:16:25 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 63.2081 ms
+2026-02-23 00:16:25 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 13.9304 ms
+2026-02-23 00:19:32 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 12.5496 ms
+2026-02-23 00:19:32 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 22.4157 ms
+2026-02-23 00:26:53 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 142.7551 ms
+2026-02-23 00:32:40 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 152.0647 ms
+2026-02-23 00:32:40 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 8.9285 ms
+2026-02-23 00:57:21 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 200.6149 ms
+2026-02-23 00:57:21 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 7.0472 ms
+2026-02-23 01:10:52 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 206.4229 ms
+2026-02-23 01:10:53 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 21.6693 ms
+2026-02-23 01:42:09 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 178.2380 ms
+2026-02-23 01:42:23 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 10.2086 ms
+2026-02-23 01:42:33 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 6.7137 ms
+2026-02-23 01:47:57 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 25.0470 ms
+2026-02-23 01:56:40 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 212.5878 ms
+2026-02-23 02:31:32 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 174.0160 ms
+2026-02-23 02:32:28 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 64.7510 ms
+2026-02-23 02:32:44 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 9.7825 ms
+2026-02-23 02:32:51 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 13.7638 ms
+2026-02-23 02:33:21 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 25.0157 ms
+2026-02-23 02:33:40 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 14.2510 ms
+2026-02-23 02:33:41 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 19.5059 ms
+2026-02-23 02:33:59 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 9.0535 ms
+2026-02-23 02:34:00 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 8.3925 ms
+2026-02-23 02:34:43 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 10.7409 ms
+2026-02-23 02:34:47 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 7.0924 ms
+2026-02-23 02:34:51 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 16.9022 ms
+2026-02-23 02:34:51 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 14.0483 ms
+2026-02-23 02:36:03 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 8.7567 ms
+2026-02-23 02:36:03 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 37.7667 ms
+2026-02-23 02:46:30 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 122.2155 ms
+2026-02-23 02:47:05 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 24.3044 ms
+2026-02-23 02:47:16 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 15.9257 ms
+2026-02-23 02:47:25 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 5.9771 ms
+2026-02-23 02:47:43 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 7.9756 ms
+2026-02-23 02:47:43 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 6.3784 ms
+2026-02-23 02:48:05 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 52.1528 ms
+2026-02-23 02:48:05 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 13.3548 ms
+2026-02-23 02:48:26 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 17.7271 ms
+2026-02-23 02:48:26 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 16.1584 ms
+2026-02-23 02:48:56 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 9.4751 ms
+2026-02-23 02:53:51 [INF] [Development] [TraceId:] HTTP GET /api/Customer/3 responded 200 in 160.7420 ms
+2026-02-23 19:29:10 [INF] [Development] [TraceId:] HTTP POST /api/Customer responded 200 in 41990.4772 ms
+2026-02-23 19:29:56 [INF] [Development] [TraceId:] HTTP POST /api/v1/document responded 200 in 114.6222 ms
+2026-02-23 19:31:20 [INF] [Development] [TraceId:] HTTP POST /api/CustomerKyc/upload/1 responded 200 in 120.2243 ms
+2026-02-23 19:31:38 [INF] [Development] [TraceId:] HTTP GET /api/CustomerKyc/1 responded 200 in 299.4089 ms
+2026-02-23 19:32:07 [ERR] [Development] [TraceId:] Invalid verification status value
+Customer.Application.Exceptions.BadRequestException: Invalid verification status value
+   at Customer.Application.Services.CustomerKycService.UpdateStatusAsync(Int32 kycId, UpdateKycStatusDto dto) in C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\Services\CustomerKycService.cs:line 123
+   at Customer_Service.Controllers.CustomerKycController.UpdateStatus(Int32 kycId, UpdateKycStatusDto dto) in C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\Controllers\CustomerKycController.cs:line 53
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Customer_Service.Middleware.ExceptionMiddleware.Invoke(HttpContext context) in C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\Middleware\ExceptionMiddleware.cs:line 25
+2026-02-23 19:32:07 [INF] [Development] [TraceId:] HTTP PUT /api/CustomerKyc/status/1 responded 400 in 179.5167 ms
+2026-02-23 19:32:18 [ERR] [Development] [TraceId:] Invalid verification status value
+Customer.Application.Exceptions.BadRequestException: Invalid verification status value
+   at Customer.Application.Services.CustomerKycService.UpdateStatusAsync(Int32 kycId, UpdateKycStatusDto dto) in C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\Services\CustomerKycService.cs:line 123
+   at Customer_Service.Controllers.CustomerKycController.UpdateStatus(Int32 kycId, UpdateKycStatusDto dto) in C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\Controllers\CustomerKycController.cs:line 53
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Customer_Service.Middleware.ExceptionMiddleware.Invoke(HttpContext context) in C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\Middleware\ExceptionMiddleware.cs:line 25
+2026-02-23 19:32:18 [INF] [Development] [TraceId:] HTTP PUT /api/CustomerKyc/status/1 responded 400 in 93.1873 ms
+2026-02-23 19:33:51 [INF] [Development] [TraceId:] HTTP PUT /api/CustomerKyc/status/1 responded 200 in 56.7651 ms
+2026-02-23 19:34:24 [INF] [Development] [TraceId:] HTTP GET /api/CustomerKyc/download/1 responded 200 in 54.4770 ms
+2026-02-23 19:39:08 [INF] [Development] [TraceId:] HTTP GET /api/Customer/1 responded 200 in 505.2116 ms
+2026-02-23 19:39:21 [INF] [Development] [TraceId:] HTTP GET /api/Customer/1 responded 200 in 21.3260 ms
+2026-02-23 19:39:32 [INF] [Development] [TraceId:] HTTP GET /api/Customer/1 responded 200 in 12.8808 ms
+2026-02-23 19:42:27 [INF] [Development] [TraceId:] HTTP POST /api/Customer responded 200 in 4185.4883 ms
+2026-02-23 19:42:41 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 14.1061 ms
+2026-02-23 19:42:55 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 8.8832 ms
+2026-02-23 19:42:59 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 6.1268 ms
+2026-02-23 19:44:49 [INF] [Development] [TraceId:] HTTP GET /api/Customer/1 responded 200 in 18.4311 ms
+2026-02-23 19:44:53 [INF] [Development] [TraceId:] HTTP GET /api/Customer/2 responded 200 in 21.7566 ms
+2026-02-23 19:45:29 [INF] [Development] [TraceId:] HTTP GET /api/Customer/1 responded 200 in 8.1811 ms
+2026-02-23 19:46:01 [INF] [Development] [TraceId:] HTTP GET /api/Customer/1 responded 200 in 789.3116 ms
+2026-02-23 19:46:01 [INF] [Development] [TraceId:] HTTP GET /api/Customer/1 responded 200 in 187.5025 ms

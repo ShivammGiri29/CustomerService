@@ -1,0 +1,51 @@
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.deps.json
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.runtimeconfig.json
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.dll
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.pdb
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.csproj.AssemblyReference.cache
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.AssemblyInfoInputs.cache
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.AssemblyInfo.cs
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.dll
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\refint\Customer.Application.dll
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.pdb
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.genruntimeconfig.cache
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\ref\Customer.Application.dll
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Domain.dll
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Domain.pdb
+C:\Users\Shivam\source\repos\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.D662BFEF.Up2Date
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.deps.json
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.runtimeconfig.json
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.dll
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.pdb
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Domain.dll
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Domain.pdb
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.csproj.AssemblyReference.cache
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.AssemblyInfoInputs.cache
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.AssemblyInfo.cs
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.csproj.CoreCompileInputs.cache
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.D662BFEF.Up2Date
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.dll
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\refint\Customer.Application.dll
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.pdb
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.genruntimeconfig.cache
+C:\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\ref\Customer.Application.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.deps.json
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.runtimeconfig.json
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Application.pdb
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Domain.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\bin\Debug\net8.0\Customer.Domain.pdb
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.csproj.AssemblyReference.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.AssemblyInfoInputs.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.AssemblyInfo.cs
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.csproj.CoreCompileInputs.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.D662BFEF.Up2Date
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\refint\Customer.Application.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.pdb
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.genruntimeconfig.cache
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\ref\Customer.Application.dll
