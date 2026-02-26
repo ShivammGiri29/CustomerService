@@ -4,6 +4,7 @@ using Customer.Application.Services;
 using Customer.Infrastucture.Data;
 using Customer.Infrastucture.Repository;
 using Customer_Service.Middleware;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Serilog;
@@ -67,7 +68,7 @@ builder.Services.AddScoped<ICustomerKycService, CustomerKycService>();
 
 builder.Services.AddHttpClient<IUserClient, UserClient>(client =>
 {
-    client.BaseAddress = new Uri("https://authservicee-gkefb8d7anfwfwfd.canadacentral-01.azurewebsites.net/");
+  client.BaseAddress = new Uri("https://authservicee-gkefb8d7anfwfwfd.canadacentral-01.azurewebsites.net/");
 });
 
 
@@ -77,7 +78,10 @@ builder.Services.AddHttpContextAccessor();
 
 //builder.Services.AddScoped<ICustomerRepo, Customer>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
-builder.Services.AddDataProtection();
+builder.Services.AddDataProtection()
+    .PersistKeysToFileSystem(new DirectoryInfo(@"C:\home\DataProtectionKeys"))
+    .SetApplicationName("CustomerService");
+
 
 builder.Services.AddHttpContextAccessor();
 
@@ -107,10 +111,11 @@ app.UseHttpsRedirection();
 app.UseSerilogRequestLogging();
 
 app.UseMiddleware<ExceptionMiddleware>();
+app.UseCors("AllowAll");
+
 
 app.UseAuthorization();
 
-app.UseCors("AllowAll");
 
 app.MapControllers();
 

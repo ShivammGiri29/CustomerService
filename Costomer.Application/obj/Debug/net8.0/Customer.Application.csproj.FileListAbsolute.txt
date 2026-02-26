@@ -49,3 +49,4 @@ C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer
 C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.pdb
 C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.genruntimeconfig.cache
 C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\ref\Customer.Application.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Costomer.Application\obj\Debug\net8.0\Customer.Application.sourcelink.json

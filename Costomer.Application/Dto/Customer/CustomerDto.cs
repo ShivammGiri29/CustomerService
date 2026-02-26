@@ -11,7 +11,6 @@ namespace Customer.Application.Dto.Customer
 {
     public class CustomerDto
     {
-        public int UserId { get; set; }
 
         public string Email { get; set; }
 

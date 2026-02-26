@@ -530,3 +530,4 @@ C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer
 C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\obj\Debug\net8.0\Customer.Api.pdb
 C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\obj\Debug\net8.0\Customer.Api.genruntimeconfig.cache
 C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\obj\Debug\net8.0\ref\Customer.Api.dll
+C:\LoanApplication-Backend (2)\LoanApplication-Backend\Customer Service\Customer Service\obj\Debug\net8.0\Customer.Api.sourcelink.json

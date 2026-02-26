@@ -35,11 +35,12 @@ namespace Customer.Application.Services
             }
             
             var customer = _mapper.Map<CustomerDetails>(dto);
+            customer.UserId = data.Userid;
             customer.AuthUserName = data.name;
             customer.Email = data.Email;
 
-            customer.AadharNo = _encryptionservice.Encrypt(customer.AadharNo);
-            customer.PanNo = _encryptionservice.Encrypt(customer.PanNo);
+            customer.AadharNo = customer.AadharNo;
+            customer.PanNo = customer.PanNo;
 
             return await _customerRepo.AddAsync(customer);
 
@@ -50,8 +51,8 @@ namespace Customer.Application.Services
             var data = await _customerRepo.GetAsync();
             foreach (var item in data)
             {
-                item.AadharNo = _encryptionservice.Decrypt(item.AadharNo);
-                item.PanNo = _encryptionservice.Decrypt(item.PanNo);
+                item.AadharNo = item.AadharNo;
+                item.PanNo = item.PanNo;
             }
             return _mapper.Map<List<FetchCustomerDto>>(data);
         }
@@ -61,8 +62,8 @@ namespace Customer.Application.Services
             var data = await _customerRepo.GetById(id);
             var dto = _mapper.Map<FetchCustomerDto>(data);
 
-            dto.AadharNo = _encryptionservice.Decrypt(data.AadharNo);
-            dto.PanNo = _encryptionservice.Decrypt(data.PanNo);
+            dto.AadharNo = data.AadharNo;
+            dto.PanNo = data.PanNo;
 
             dto.Age = data.Age;
 

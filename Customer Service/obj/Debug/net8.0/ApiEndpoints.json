@@ -33,6 +33,16 @@
   },
   {
     "ContainingType": "Customer_Service.Controllers.CustomerController",
+    "Method": "getAllcustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Customer_Service.Controllers.CustomerController",
     "Method": "CustomerGetById",
     "RelativePath": "api/Customer/{id}",
     "HttpMethod": "GET",

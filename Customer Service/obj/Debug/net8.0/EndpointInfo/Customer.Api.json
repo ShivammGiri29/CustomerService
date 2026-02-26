@@ -63,6 +63,16 @@
             "description": "OK"
           }
         }
+      },
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/api/Customer/{id}": {
@@ -410,6 +420,10 @@
           "userId": {
             "type": "integer",
             "format": "int32"
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
           },
           "mobile": {
             "type": "string",
