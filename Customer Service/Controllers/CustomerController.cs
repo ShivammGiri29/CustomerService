@@ -54,5 +54,13 @@ namespace Customer_Service.Controllers
             return Ok(ApiResponse<FetchCustomerDto>.SuccessResponse(data, "success"));
         }
 
+
+        [HttpGet]
+        public async Task<IActionResult> getAllcustomer()
+        {
+           var data = await _customerService.GetCustomerAsync();
+            return Ok(ApiResponse<List<FetchCustomerDto>>.SuccessResponse(data, "success"));
+        }
+
     }
 }
