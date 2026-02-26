@@ -28,7 +28,7 @@ namespace Customer.Application.Services
         }
         public async Task<bool> AddCustomerAsync(CustomerDto dto)
         {
-            var data = await _userclient.GetUserById(dto.UserId);
+            var data = await _userclient.GetByEmail(dto.Email);
             if (data == null)
             {
                 throw new NotFoundException("User not Found");

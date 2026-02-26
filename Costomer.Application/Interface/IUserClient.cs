@@ -10,5 +10,6 @@ namespace Customer.Application.Interface
     public interface IUserClient
     {
         Task<UserDto?> GetUserById(int id);
+        Task<UserDto> GetByEmail(string Email);
     }
 }

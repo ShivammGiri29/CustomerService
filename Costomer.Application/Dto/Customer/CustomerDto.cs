@@ -13,6 +13,8 @@ namespace Customer.Application.Dto.Customer
     {
         public int UserId { get; set; }
 
+        public string Email { get; set; }
+
         public string Mobile { get; set; }
 
         [Required(ErrorMessage = "PAN is required")]
