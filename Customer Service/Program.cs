@@ -113,7 +113,6 @@ app.UseSerilogRequestLogging();
 app.UseMiddleware<ExceptionMiddleware>();
 app.UseCors("AllowAll");
 
-
 app.UseAuthorization();
 
 
