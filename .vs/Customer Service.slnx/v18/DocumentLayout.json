@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1BF61E19-8549-13D1-7FD9-79493C84C671}|Customer Service\\Customer.Api.csproj|c:\\loanapplication-backend (2)\\loanapplication-backend\\customer service\\customer service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF61E19-8549-13D1-7FD9-79493C84C671}|Customer Service\\Customer.Api.csproj|solutionrelative:customer service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754649EF-8A04-2796-F300-D01F078F9B91}|Costomer.Application\\Customer.Application.csproj|c:\\loanapplication-backend (2)\\loanapplication-backend\\customer service\\costomer.application\\helpers\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754649EF-8A04-2796-F300-D01F078F9B91}|Costomer.Application\\Customer.Application.csproj|solutionrelative:costomer.application\\helpers\\pageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1BF61E19-8549-13D1-7FD9-79493C84C671}|Customer Service\\Customer.Api.csproj|c:\\loanapplication-backend (2)\\loanapplication-backend\\customer service\\customer service\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BF61E19-8549-13D1-7FD9-79493C84C671}|Customer Service\\Customer.Api.csproj|solutionrelative:customer service\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{754649EF-8A04-2796-F300-D01F078F9B91}|Costomer.Application\\Customer.Application.csproj|c:\\loanapplication-backend (2)\\loanapplication-backend\\customer service\\costomer.application\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{754649EF-8A04-2796-F300-D01F078F9B91}|Costomer.Application\\Customer.Application.csproj|solutionrelative:costomer.application\\interface\\icustomerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF61E19-8549-13D1-7FD9-79493C84C671}|Customer Service\\Customer.Api.csproj|c:\\loanapplication-backend (2)\\loanapplication-backend\\customer service\\customer service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF61E19-8549-13D1-7FD9-79493C84C671}|Customer Service\\Customer.Api.csproj|solutionrelative:customer service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PageResponse.cs",
+              "DocumentMoniker": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Costomer.Application\\Helpers\\PageResponse.cs",
+              "RelativeDocumentMoniker": "Costomer.Application\\Helpers\\PageResponse.cs",
+              "ToolTip": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Costomer.Application\\Helpers\\PageResponse.cs",
+              "RelativeToolTip": "Costomer.Application\\Helpers\\PageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:35:20.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CustomerKycController.cs",
               "DocumentMoniker": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Customer Service\\Controllers\\CustomerKycController.cs",
               "RelativeDocumentMoniker": "Customer Service\\Controllers\\CustomerKycController.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Customer Service\\Controllers\\CustomerKycController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T04:15:55.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T04:15:55.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ICustomerRepo.cs",
               "DocumentMoniker": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Costomer.Application\\Interface\\ICustomerRepo.cs",
               "RelativeDocumentMoniker": "Costomer.Application\\Interface\\ICustomerRepo.cs",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "Costomer.Application\\Interface\\ICustomerRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T04:14:56.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T04:14:56.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Costomer.Application\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "Costomer.Application\\Services\\CustomerService.cs",
@@ -80,33 +95,33 @@
               "RelativeToolTip": "Costomer.Application\\Services\\CustomerService.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAYwC8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T07:47:57.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T07:47:57.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Customer Service\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Customer Service\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Customer Service\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Customer Service\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDUAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T07:47:41.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Customer Service\\Program.cs",
               "RelativeDocumentMoniker": "Customer Service\\Program.cs",
               "ToolTip": "C:\\LoanApplication-Backend (2)\\LoanApplication-Backend\\Customer Service\\Customer Service\\Program.cs",
               "RelativeToolTip": "Customer Service\\Program.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T07:47:24.031Z"
+              "WhenOpened": "2026-02-25T07:47:24.031Z",
+              "EditorCaption": ""
             }
           ]
         }

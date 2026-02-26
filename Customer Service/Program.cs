@@ -70,6 +70,16 @@ builder.Services.AddHttpClient<IUserClient, UserClient>(client =>
     client.BaseAddress = new Uri("https://authservicee-gkefb8d7anfwfwfd.canadacentral-01.azurewebsites.net/");
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200")
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+
 
 builder.Services.AddHttpContextAccessor();
 
@@ -94,6 +104,9 @@ app.UseHttpsRedirection();
 app.UseSerilogRequestLogging();
 
 app.UseMiddleware<ExceptionMiddleware>();
+
+app.UseCors("AllowAll");
+
 
 app.UseAuthorization();
 
